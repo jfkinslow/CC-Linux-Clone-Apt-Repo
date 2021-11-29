@@ -1,0 +1,7 @@
+[
+    {
+        "name": "test-app",
+        "description": "This is just to test the apt repo functions",
+        "location": "test-app"
+    }
+]
