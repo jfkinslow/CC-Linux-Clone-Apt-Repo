@@ -8,7 +8,7 @@
             "name": "test-app.lua",
             "install": {
                 "to": "/usr/sbin",
-                "from": "data/usr/bin"
+                "from": "data/usr/sbin"
             }
         }
     ]
